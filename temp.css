@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding:0px;
+    box-sizing: border-box;
+    
+    }
+    .navbar-nav 
+    {
+margin-right: auto;
+    }
+    .body{
+        width: 100%;
+        background-color: #1ABC9C;
+    }
